@@ -1,0 +1,7 @@
+.env
+arch.png
+
+dataset/*.csv
+
+models/log_classifier.joblib
+logi/
